@@ -2,50 +2,46 @@
 const CONFIG = {
   // Couple information
   couple: {
-    name1: 'Ms.Wang',
-    name2: 'Mr.Qi',
-    connector: '和',
-    together: '在一起'
+    name1: 'Khea',
+    name2: 'Sia',
+    connector: 'and',
+    together: 'together'
   },
   
   // Memorial date
-  memorialDate: '2017-12-25T00:00:00',
+  memorialDate: '2025-12-09T00:00:00',
   
   // Love letter content
   letter: {
     paragraph1: [
-      '哪天我老了，还跟和你热恋一样，',
-      '桌前给你发消息，',
-      '灯盏微黄，窗外风雨千墙，',
-      '半天酿出一句我想你了，',
-      '内心的原野，',
-      '时而流星追月，时而万马奔腾。'
+      'Happy 1st Monthsarry my dearest, baby，',
+      'Grabe, ang bilis talaga ng panahon, parang dati lang sinusungitan at hindi mo ko pinapansin, for some unknown reason to me that time, akala ko pa galit ka sa akin nun，',
+      'but turns out na, crush mo lang pala me and nagsea-sealost ka, so cutieee baby，',
+      'But screw that, I am yours and you are mine now, so let us make sure to not let go of each others hands baby ah?，',
     ],
     paragraph2: [
-      '有时有月亮，',
-      '我就做一个九曲十八弯的梦，',
-      '每个转角都与你有关，',
-      '你对我笑了一下，',
-      '醒来我就发上一天呆。'
+      'Please know that whatever happens I will always stay by your side,and I will always be here for you，',
+      'I am sorry that we cannot celebrate our 1st Monthsarry together, mahal ko,alam mo na reason, but let us make sure that we will the next time，',
+      
     ],
     paragraph3: [
-      '现在我在长满星星的夜里，',
-      '阶前红豆坠满枝，',
-      '醉过知酒浓，',
-      '无物抵相思。'
+      'We may not be together but nandito ka naman palagi sa isip ko,laging natakbo hindi ka ba napapagod baby?  but seriously, know that I am deeply grateful to have you in my life, you make my life a little brighter just by being yourself，',
+      'More monthsarry, dates, headaches,and problems to comee, mahal kooo, but we'll get through all of that together，',
+      'I loveee you so muchiee, baby ko，',
+      'Always remember that'
     ]
   },
   
   // Time display text
   time: {
     prefix: '第 ',
-    day: '天',
-    hour: '小时',
-    minute: '分钟',
-    second: '秒'
+    day: 'day',
+    hour: 'hour',
+    minute: 'minute',
+    second: 'second'
   },
   
   // Text on seed heart
-  seedText: 'Miss You'
+  seedText: 'Happy 1st monthsarry, baby!!'
 };
 
